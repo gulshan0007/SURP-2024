@@ -176,14 +176,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
-  color: #323b75;
+  color: #004AAD;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-  color: #323b75;
+  color: #004AAD;
 }
 
 .navbar-default .navbar-collapse {
@@ -191,8 +191,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #323b75;
-  background-color: #323b75;
+  border-color: #004AAD;
+  background-color: #004AAD;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -201,7 +201,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #323b75;
+  background-color: #004AAD;
 }
 
 .navbar-default .nav li a {
@@ -215,19 +215,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
-  color: #323b75;
+  color: #004AAD;
 }
 
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
   color: #fff;
-  background-color: #323b75;
+  background-color: #004AAD;
 }
 
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color: #323b75;
+  background-color: #004AAD;
 }
 
 @media (min-width: 768px) {
@@ -262,8 +262,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .container2 {
-  margin-left: 50%;
-  margin-top: 20px;
+  margin: 60px auto;
+            padding: 0 20px;
+            width: 60%;
 }
 
 header {
@@ -293,7 +294,7 @@ header .intro-text {
   font-size: 3vh !important;
   font-weight: 600;
   line-height: 50px;
-  color:#e74c3c;
+  color:#004AAD;
 }
 
 @media (min-width: 768px) {
@@ -321,6 +322,7 @@ header .intro-text {
 }
 
 @media (max-width: 768px) {
+  
   header .intro-heading {
     padding-top: 70%;
   }
@@ -543,7 +545,7 @@ section#contact:-ms-input-placeholder {
 }
 
 section#contact .text-danger {
-  color: #e74c3c;
+  color: #004AAD;
 }
 /*
 footer {

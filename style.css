@@ -10,15 +10,15 @@
 body {
   /* background-color: #eee; */
   font-family: "Lato", sans-serif;
-  color: #323b75;
+  color: #004AAD;
 }
 .navbar-nav .nav-link:hover {
-  color: #323b75 !important;
+  color: #004AAD !important;
 }
 
 .title {
   margin: 5%;
-  color: #323b75;
+  color: #004AAD;
 }
 .container {
   width: 75%;

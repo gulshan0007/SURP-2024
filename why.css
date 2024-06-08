@@ -92,13 +92,13 @@
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #323b75;
+  background-color: #004AAD;
   content: "";
 }
 
 hr {
   width: 70%;
-  border-top: solid #323b75;
+  border-top: solid #004AAD;
 }
 
 .card_text p {

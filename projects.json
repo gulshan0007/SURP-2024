@@ -148,7 +148,7 @@
       "Duration": "At least 6 month",
       "Learning Outcome & Expectations from the students": "Data analysis of electricity demand.",
       "Weekly Time Commitment": "1 - 2 times a week. At least 20 hours a week.",
-      "Assignment": "https://indianexpress.com/article/opinion/columns/smart-meter-saving-electricity-bills-environment-9036345/\ndoi:10.1016/j.enpol.2009.11.079\nDOI: 10.1002/er.1136\nhttps://www.ise.fraunhofer.de/en/publications/studies/recent-facts-about-pv-in-germany.html (Recent Facts about Photovoltaic in Germany - Frauhhofer ISE)",
+      "Assignment": "https://indianexpress.com/article/opinion/columns/smart-meter-saving-electricity-bills-environment-9036345/\ndoi:10.1016/j.enpol.2009.11.079\nDOI: 10.1002/er.1136\n           https://www.ise.fraunhofer.de/en/publications/studies/recent-facts-about-pv-in-germany.html (Recent Facts about Photovoltaic in Germany - Frauhhofer ISE)",
       "Instructions for assignment": "Summarize the references.",
       "Additional key points": ""
     },
@@ -171,7 +171,7 @@
     },
     {
       "Domain": "Centre for Technology Alternatives for Rural Areas (CTARA)",
-      "Project Title": "Low tension networks optimization on agricutlural feeders",
+      "Project Title": "Low tension networks optimization on agricultural feeders",
       "Project UID": "CT03",
       "Name of Professor": "Priya Jadhav",
       "Project Description": "The networks on agricultural feeders have grown haphazardly over the years due to new wells coming up as required by farmers. .If these networks are o0timized it can lead to better power supply to farmers. and lowered cost for new connections. This is part of a project with the GISE hub at IIT Bombay.We hav collected network data from a few villages which is to be used as the sample data.",
@@ -250,7 +250,7 @@
       "Duration": "Summer months and beyond, based on mutual interest",
       "Learning Outcome & Expectations from the students": "Learning microfluidics and/or building and testing a water treatment device",
       "Weekly Time Commitment": "20 hrs. work per week, 2-3 meetings per week with me or my PhD student",
-      "Assignment": "Published research paper title: Metallic Copper Nanoparticle Impregnated Activated Carbon for the Development of a Continuous, Gravity-Driven, Water Disinfection Device\nAuthors: Angira Das, Akshay Patil, Rajdip Bandyopadhyaya\nJournal: Transactions of the Indian Institute of Metals\nYear: 2023\nPages: 1-9\nPublisher: Springer India",
+      "Assignment": "Published research paper title: Metallic Copper Nanoparticle Impregnated Activated Carbon for the Development of a Continuous, Gravity-Driven, Water Disinfection Device          \nAuthors: Angira Das, Akshay Patil, Rajdip Bandyopadhyaya  \nJournal: Transactions of the Indian Institute of Metals\nYear: 2023 \nPages: 1-9\nPublisher: Springer India",
       "Instructions for assignment": "Prepare a verbal summary and meet and explain me briefly\nFurther, the interested students can come to lab, see the devices and discuss with PhD students already working on it.",
       "Additional key points": ""
     },
@@ -301,7 +301,7 @@
       "Duration": "1 semester",
       "Learning Outcome & Expectations from the students": "Use of machine learning tools",
       "Weekly Time Commitment": "15 hours of weekly commitment and 1-2 meetings per week",
-      "Assignment": "https://doi.org/10.1016/j.cpc.2022.108654, \nhttps://doi.org/10.1063/5.0209343",
+      "Assignment": "https://doi.org/10.1016/j.cpc.2022.108654,     \nhttps://doi.org/10.1063/5.0209343",
       "Instructions for assignment": "Write one paragraph summary of the any one of the above papers",
       "Additional key points": ""
     },
@@ -327,7 +327,7 @@
       "Project Title": "AI based real-time vehicle detection and classification from video",
       "Project UID": "CE01",
       "Name of Professor": "Gopal Patil",
-      "Project Description": "In any transportation planning and traffic management studies classified traffic volume is a key input needed. Counting and classifying vehicular traffic manually is very time and resource consuming. Moreover,  such manual approaches are not suitable for intelligent transport application. The aim of this project is to us Neural Network Based approaches to detect and classify vehicular traffic. In the first stage, offline video will be used to training and validating results. Once the offline results are satisfactory, the next task is to perform the same task with using real time continuous streaming of videos.",
+      "Project Description": "In any transportation planning and traffic management studies classified traffic volume is a key input needed. Counting and classifying vehicular traffic manually is very time and resource consuming. Moreover,  such manual approaches are not suitable for intelligent transport application. The aim of this project is to use Neural Network Based approaches to detect and classify vehicular traffic. In the first stage, offline video will be used to training and validating results. Once the offline results are satisfactory, the next task is to perform the same task with using real time continuous streaming of videos.",
       "Number of Students Required": "two",
       "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
       "CPI Eligibility Criteria": "Above 7.0",
@@ -348,12 +348,12 @@
       "Number of Students Required": 2,
       "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
       "CPI Eligibility Criteria": "7.5 and above",
-      "Prerequisites": "Background on fluid mechanics and basic instrumentration - Preferrable but not essentail",
+      "Prerequisites": "Background on fluid mechanics and basic instrumentration - Preferrable but not essential",
       "Duration": "6 months",
       "Learning Outcome & Expectations from the students": "In addition to learning, students would be contributing to indigenous development of new instruments for waterwave measurements",
       "Weekly Time Commitment": "2 hours and meeting - once a week",
       "Assignment": "https://iitbombay1-my.sharepoint.com/:f:/g/personal/srineash_iitbombay1_onmicrosoft_com/EjhJC0hzV_FAgQuTZgkkyYgBVM5-UThTwOONvjMxm-9-MQ?e=RTZNmO",
-      "Instructions for assignment": "Studentsare asked to prepare a single slide reflecting their understanding",
+      "Instructions for assignment": "Students are asked to prepare a single slide reflecting their understanding",
       "Additional key points": ""
     },
     {
@@ -369,8 +369,8 @@
       "Duration": "Minimum 4 months",
       "Learning Outcome & Expectations from the students": "1. Technical Skills Development: Students may learn technical skills related to software development, database management, and user interface design through hands-on experience with the digital survey tool.\n\n2. Data Analysis Skills: Students may gain proficiency in data analysis techniques by working with collected travel pattern data and extracting meaningful insights using analytical tools.\n\n3. Understanding of Transportation Planning: Students may gain insights into transportation planning processes and methodologies by participating in discussions, workshops, and meetings related to travel demand modelling projects.",
       "Weekly Time Commitment": "Weekly commitment expected from the student (in hours) = 15 hours/week Frequency of meets the students should have every week = twice/week",
-      "Assignment": "https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison \nhttps://www.w3schools.com/nodejs/default.asp\nhttps://www.w3schools.com/REACT/DEFAULT.ASP\nhttps://tailwindcss.com/\nhttps://developers.google.com/maps/documentation/javascript/tutorials\nhttps://pypi.org/project/psycopg/\nhttps://www.postgresql.org/\nhttps://www.docker.com/\nhttps://nginx.org/en/",
-      "Instructions for assignment": "Dear Students, \nYou are tasked with understanding the key concepts of web development using the resources provided above. Your goal is to learn from each link and prepare a comprehensive 10-page report detailing how one can develop a web-based survey tool using the technologies and frameworks mentioned. \n Steps to Follow\n1. FastAPI vs Flask:\n   - Understand the differences and use cases for FastAPI and Flask.\n   - Identify which framework is more suitable for the backend of a web-based survey tool.\n   - Summarize the key features of the chosen framework.\n\n2. Node.js:\n   - Learn the basics of Node.js and its importance in building scalable network applications.\n   - Determine how Node.js can be integrated into your survey tool project, especially for backend services.\n\n3. React:\n   - Study the fundamental concepts of React and how it can be used to build dynamic user interfaces.\n   - Explain how React can be utilized to create the frontend of your survey tool.\n\n4. Tailwind CSS:\n   - Explore the utility-first CSS framework and how it helps in designing responsive and modern user interfaces.\n   - Describe how Tailwind CSS can be used to style your survey tool.\n\n5. Google Maps JavaScript API:\n   - Review the tutorials on adding interactive maps to your web application.\n   - Discuss potential uses of Google Maps in a survey tool, such as location-based questions.\n\n6. psycopg and PostgreSQL:\n   - Learn about psycopg as a PostgreSQL adapter for Python and its role in database interactions.\n   - Understand PostgreSQL as a powerful, open-source object-relational database system.\n   - Explain how to set up and interact with a PostgreSQL database for storing survey data.\n\n7. Docker:\n   - Investigate how Docker can be used to containerize your application, making it easier to deploy and manage.\n   - Discuss the benefits of using Docker in development and production environments for your survey tool.\n\n8. NGINX:\n   - Learn about NGINX as a web server that can also be used as a reverse proxy, load balancer, and HTTP cache.\n   - Explain how NGINX can be configured to serve your web-based survey tool efficiently.\n\n Report Structure\nYour report should include the following sections:\n\n1. Introduction:\n   - Briefly introduce the project and the importance of web-based survey tools.\n\n2. Technology Overview:\n   - Provide a summary of each technology and framework based on the resources.\n   - Highlight their roles and significance in web development.\n\n3. Framework and Tools Selection:\n   - Justify the selection of specific tools and frameworks for developing the survey tool.\n\n4. Development Plan:\n   - Outline the steps and methodologies to be followed in developing the survey tool.\n   - Include details on setting up the development environment, backend and frontend development, database integration, and deployment.\n5. Implementation Details:\n   - Provide a detailed explanation of how each tool and framework will be used in the project.\n   - Include code snippets, configurations, and setup instructions where applicable.\n\n6. Conclusion:\n   - Summarize the key points of your report.\n   - Discuss potential challenges and future enhancements for the survey tool.\n\n Submission Guidelines\n\n- The report should be 10 pages long, formatted professionally with clear headings and subheadings.\n- Include diagrams, code snippets, and screenshots to illustrate your points.\n- Submit the report as a WORD document. \n\nThis assignment is designed to give you hands-on experience with modern web development tools and practices. \nNote:\nEven if you cannot complete the report at this time, it is crucial that you go through all the concepts provided in the resources before starting work on the project. You are expected to submit the completed report at the end of the project.",
+      "Assignment": "https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison    \nhttps://www.w3schools.com/nodejs/default.asp        \nhttps://www.w3schools.com/REACT/DEFAULT.ASP\nhttps://tailwindcss.com/        \nhttps://developers.google.com/maps/documentation/javascript/tutorials       \nhttps://pypi.org/project/psycopg/       \nhttps://www.postgresql.org/    \nhttps://www.docker.com/      \nhttps://nginx.org/en/",
+      "Instructions for assignment": "Dear Students, \n You are tasked with understanding the key concepts of web development using the resources provided above. Your goal is to learn from each link and prepare a comprehensive 10-page report detailing how one can develop a web-based survey tool using the technologies and frameworks mentioned. \n Steps to Follow\n1. FastAPI vs Flask:\n   - Understand the differences and use cases for FastAPI and Flask.\n   - Identify which framework is more suitable for the backend of a web-based survey tool.\n   - Summarize the key features of the chosen framework.\n\n2. Node.js:\n   - Learn the basics of Node.js and its importance in building scalable network applications.\n   - Determine how Node.js can be integrated into your survey tool project, especially for backend services.\n\n3. React:\n   - Study the fundamental concepts of React and how it can be used to build dynamic user interfaces.\n   - Explain how React can be utilized to create the frontend of your survey tool.\n\n4. Tailwind CSS:\n   - Explore the utility-first CSS framework and how it helps in designing responsive and modern user interfaces.\n   - Describe how Tailwind CSS can be used to style your survey tool.\n\n5. Google Maps JavaScript API:\n   - Review the tutorials on adding interactive maps to your web application.\n   - Discuss potential uses of Google Maps in a survey tool, such as location-based questions.\n\n6. psycopg and PostgreSQL:\n   - Learn about psycopg as a PostgreSQL adapter for Python and its role in database interactions.\n   - Understand PostgreSQL as a powerful, open-source object-relational database system.\n   - Explain how to set up and interact with a PostgreSQL database for storing survey data.\n\n7. Docker:\n   - Investigate how Docker can be used to containerize your application, making it easier to deploy and manage.\n   - Discuss the benefits of using Docker in development and production environments for your survey tool.\n\n8. NGINX:\n   - Learn about NGINX as a web server that can also be used as a reverse proxy, load balancer, and HTTP cache.\n   - Explain how NGINX can be configured to serve your web-based survey tool efficiently.\n\n Report Structure\nYour report should include the following sections:\n\n1. Introduction:\n   - Briefly introduce the project and the importance of web-based survey tools.\n\n2. Technology Overview:\n   - Provide a summary of each technology and framework based on the resources.\n   - Highlight their roles and significance in web development.\n\n3. Framework and Tools Selection:\n   - Justify the selection of specific tools and frameworks for developing the survey tool.\n\n4. Development Plan:\n   - Outline the steps and methodologies to be followed in developing the survey tool.\n   - Include details on setting up the development environment, backend and frontend development, database integration, and deployment.\n5. Implementation Details:\n   - Provide a detailed explanation of how each tool and framework will be used in the project.\n   - Include code snippets, configurations, and setup instructions where applicable.\n\n6. Conclusion:\n   - Summarize the key points of your report.\n   - Discuss potential challenges and future enhancements for the survey tool.\n\n Submission Guidelines\n\n- The report should be 10 pages long, formatted professionally with clear headings and subheadings.\n- Include diagrams, code snippets, and screenshots to illustrate your points.\n- Submit the report as a WORD document. \n\nThis assignment is designed to give you hands-on experience with modern web development tools and practices. \nNote:\nEven if you cannot complete the report at this time, it is crucial that you go through all the concepts provided in the resources before starting work on the project. You are expected to submit the completed report at the end of the project.",
       "Additional key points": ""
     },
     {
@@ -505,7 +505,7 @@
       "Duration": "1 month",
       "Learning Outcome & Expectations from the students": "Understanding new types of datasets, and how palaeontology helps with understanding the history of life on earth.\nStudent should be genuinely interested and consistent with effort as this is a very small project.",
       "Weekly Time Commitment": "3 hours, 1 meeting",
-      "Assignment": "https://micropalaeos.wixsite.com/micropalaeos; \nhttps://youtu.be/I60dW6C_3Q4?feature=shared; https://www.sciencedirect.com/science/article/pii/S0921818120302034",
+      "Assignment": "https://micropalaeos.wixsite.com/micropalaeos;      \nhttps://youtu.be/I60dW6C_3Q4?feature=shared; https://www.sciencedirect.com/science/article/pii/S0921818120302034",
       "Instructions for assignment": "",
       "Additional key points": ""
     },
@@ -657,7 +657,7 @@
       "Prerequisites": "NA",
       "Duration": "1 year",
       "Learning Outcome & Expectations from the students": "Hands-on-experience on Hardware and software setups",
-      "Weekly Time Commitment": "20 hrs + Thrice a week",
+      "Weekly Time Commitment": "20 hrs + Thrice a week meeting",
       "Assignment": "",
       "Instructions for assignment": "",
       "Additional key points": ""
@@ -674,7 +674,7 @@
       "Prerequisites": "None",
       "Duration": "1 year",
       "Learning Outcome & Expectations from the students": "Hands-on Experience on hardware and software setup",
-      "Weekly Time Commitment": "20Hrs + Thrice a week",
+      "Weekly Time Commitment": "20Hrs + Thrice a week meeting",
       "Assignment": "",
       "Instructions for assignment": "",
       "Additional key points": ""
@@ -691,7 +691,7 @@
       "Prerequisites": "NA",
       "Duration": "1 year",
       "Learning Outcome & Expectations from the students": "Hands-on-experience on software & hardware setups",
-      "Weekly Time Commitment": "20 hrs+ Thrice a week",
+      "Weekly Time Commitment": "20 hrs+ Thrice a week meeting",
       "Assignment": "",
       "Instructions for assignment": "",
       "Additional key points": ""
@@ -708,7 +708,7 @@
       "Prerequisites": "NA",
       "Duration": "1 year",
       "Learning Outcome & Expectations from the students": "Hands-on-experience on software and hardware setups",
-      "Weekly Time Commitment": "20 Hrs + Thrice a week",
+      "Weekly Time Commitment": "20 Hrs + Thrice a week meeting",
       "Assignment": "",
       "Instructions for assignment": "",
       "Additional key points": ""
@@ -732,7 +732,7 @@
     },
     {
       "Domain": "Electrical",
-      "Project Title": "measurement of the doping concentration in silicon solar cells",
+      "Project Title": "Measurement of the doping concentration in silicon solar cells",
       "Project UID": "EE12",
       "Name of Professor": "Anil Kottantharayil",
       "Project Description": "Commercial silicon  solar cells are made on silicon wafers . The wafer suppliers typically specify a nominal excess carrier lifetime and resistivity. In the measurement of silicon solar cells, it is necessary to input the dopant density in the finished solar cell. This project aims to obtain the doping density of a finished solar cell from dark I-V and lighted I-V measurements. This is possible by inferring the capacitance by sweeping the voltage at diiferent rates and measuring the current or by measuring the IV with a flash lamp with different on times .",
@@ -742,7 +742,7 @@
       "Prerequisites": "Should have done EE207 or equivalent.",
       "Duration": "2 months",
       "Learning Outcome & Expectations from the students": "The student will apply concepts learned in theory courses to industrial silicon solar cells.",
-      "Weekly Time Commitment": "40 hours and minimum once a week",
+      "Weekly Time Commitment": "40 hours and minimum once a week meet",
       "Assignment": "",
       "Instructions for assignment": "Interview will be based on EE207 or equivalent course.",
       "Additional key points": ""
@@ -794,7 +794,7 @@
       "Duration": "two months",
       "Learning Outcome & Expectations from the students": "Student is expected to learn to simulate multi phase flow using at least one CFD software.",
       "Weekly Time Commitment": "30 -36 hours (weekly meeting)",
-      "Assignment": "Li, D., Zhao, B., Wang, J. (2023). Data-driven identification of coherent structures in\ngas–solid systems using proper orthogonal decomposition and dynamic mode\ndecomposition. Physics of Fluids. 1 January 2023; 35 (1):\n013321. https://doi.org/10.1063/5.0131112.",
+      "Assignment": "Li, D., Zhao, B., Wang, J. (2023). Data-driven identification of coherent structures in\ngas–solid systems using proper orthogonal decomposition and dynamic mode\ndecomposition. Physics of Fluids. 1 January 2023; 35 (1):\n013321.                  https://doi.org/10.1063/5.0131112.",
       "Instructions for assignment": "The student is expected to summarize the article shared with this form.",
       "Additional key points": ""
     },
@@ -818,7 +818,7 @@
     {
       "Domain": "Environmental",
       "Project Title": "Heatwave impact on air quality",
-      "Project UID": "ES01",
+      "Project UID": "ENV01",
       "Name of Professor": "Abhishek Chakraborty",
       "Project Description": "2024 has witnessed some of the intense heat wave episodes in recent history. Extreme heat and intense solar radiation could impact air quality, especially in urban locations. This project will evaluate the possible impacts of heatwave on various air quality parameters in several Indian cities using publically available data, which may be supplemented by dield studies.",
       "Number of Students Required": 2,
@@ -1236,7 +1236,7 @@
       "Duration": "2 semesters",
       "Learning Outcome & Expectations from the students": "- Developing an understanding of GRB theory\n- Learning spectral and temporal analysis of GRB data\n- High energy sources data analysis\n- Setting up standard routines for doing multiple instrument analysis",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
-      "Assignment": "What are GRBs - https://en.wikipedia.org/wiki/Gamma-ray_burst\nX-ray afterglow of short GRB 111020A - https://astrobites.org/2012/04/30/are-short-gamma-ray-bursts-jets/",
+      "Assignment": "What are GRBs -  https://en.wikipedia.org/wiki/Gamma-ray_burst\n   X-ray afterglow of short GRB 111020A -  https://astrobites.org/2012/04/30/are-short-gamma-ray-bursts-jets/",
       "Instructions for assignment": "Candidates should write a page about Gamma Ray Bursts and the radiation processes involved in the AFTERGLOW emission. In the interview, they should be able to explain what are the types of GRBs, and how high-energy radiation is produced. They should be able to explain the importance of X-ray followup for determining jet features.",
       "Additional key points": "This is a two-semester project, with reading work this July. Working on this project in December is to be decided by mutual agreement, and availability of other opportunities to the student. The student will be exposed to multiple analyses and will have opportunities to become a co-author on refereed publications."
     },
@@ -1253,7 +1253,7 @@
       "Duration": "2 semesters",
       "Learning Outcome & Expectations from the students": "- Physics of GRB jets and afterglows, including the interaction of jets with the interstellar medium\n- Theoretical and analytical interpretation of multi-band lightcurve data\n- Markov chain Monte Carlo (MCMC) implementation for sampling parameter space\n\nOther expectations:\nThis is a two-semester project, with reading work this Summer. Working on this project in winter is to be decided by mutual agreement, and availability of other opportunities to the student. The student will be exposed to analyses of many sources and will have opportunities to join refereed publications.",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
-      "Assignment": "What are GRBs - https://en.wikipedia.org/wiki/Gamma-ray_burst \nX-ray afterglow of short GRB 111020A - https://astrobites.org/2012/04/30/are-short-gamma-ray-bursts-jets/",
+      "Assignment": "What are GRBs -  https://en.wikipedia.org/wiki/Gamma-ray_burst \n  X-ray afterglow of short GRB 111020A - https://astrobites.org/2012/04/30/are-short-gamma-ray-bursts-jets/",
       "Instructions for assignment": "Candidates should write a page about Gamma Ray Bursts and the radiation processes involved in the AFTERGLOW emission. In the interview, they should be able to explain what are the types of GRBs, and how high-energy radiation is produced. They should be able to explain the importance of optical and X-ray followup for determining jet features.",
       "Additional key points": ""
     },
@@ -1270,7 +1270,7 @@
       "Duration": "2 semesters",
       "Learning Outcome & Expectations from the students": "- Students will get first-hand experience and a better understanding of real-time observations from telescopes.\n- Students will have the opportunity to observe and discover asteroids, leading to publications.\n- Students will have the opportunity to lead and/or be a part of publications (GCNs, ATels,  Astronote, MPECs, refereed publications) on which they have worked.\n\nOther expectations:\n- This is a two-semester project, with reading work this Summer. Working on this project in winter  is to be decided by mutual agreement, and availability of other opportunities to the student.\n- The student is encouraged to be involved in telescope operations and observation.\n- The student is encouraged to be involved in nightly observations during transient follow-up\n- The student is encouraged to participate in optical follow-up studies of Gravitational Wave sources (EMGW events).",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
-      "Assignment": "https://arxiv.org/abs/2306.16519 - Astreaks: Astrometry of NEOs with trailed background stars\nor\nFirst three modules of GROWTH Astronomy School 2020 - Python Basics, Image Data Reduction, UV, Optical and IR Photometry. (https://www.growth.caltech.edu/growth-astro-school-2020-resources.html)",
+      "Assignment": "https://arxiv.org/abs/2306.16519 -  Astreaks: Astrometry of NEOs with trailed background stars\nor\nFirst three modules of GROWTH Astronomy School 2020 - Python Basics, Image Data Reduction, UV, Optical and IR Photometry.  (https://www.growth.caltech.edu/growth-astro-school-2020-resources.html)",
       "Instructions for assignment": "Write a 1-page summary of the paper, focusing on how we can find the exact coordinates of an asteroid in the sky from \"streaked\" images.\nOR\nComplete the first 3 GROWTH modules (we will check your understanding in an interview)",
       "Additional key points": ""
     },
@@ -1287,7 +1287,7 @@
       "Duration": "2 semeters",
       "Learning Outcome & Expectations from the students": "- Astrophysics: Students will have an understanding of various kinds of transients like Supernovae, Kilonovae, Gamma-ray Bursts, Fast Blue Optical Transients etc.\n- Learn data processing of astronomical images at an advanced level.\n- Coding: advanced astropy and numpy; better coding practices including version control, understanding code integration into larger projects\n- Have first-hand experience and a better understanding of real-time observations from telescopes.\n- Other: how to work with a large international team across multiple time zones\n- Students will have the opportunity to lead and/or be a part of publications (GCNs, ATels,  Astronote, MPECs, refereed publications) on which they have worked.\n\nOther expectations:\n- This is a two-semester project, with reading work this Summer. Working on this project in winter is to be decided by mutual agreement, and availability of other opportunities to the student.\n- The student is encouraged to be involved in telescope operations and observation. \n- The student is encouraged to be involved in nightly observations during transient follow-up",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
-      "Assignment": "First three modules of GROWTH Astronomy School 2020 - Python Basics, Image Data Reduction, UV, Optical and IR Photometry. (https://www.growth.caltech.edu/growth-astro-school-2020-resources.html)",
+      "Assignment": "First three modules of GROWTH Astronomy School 2020 - Python Basics, Image Data Reduction, UV, Optical and IR Photometry.   (https://www.growth.caltech.edu/growth-astro-school-2020-resources.html)",
       "Instructions for assignment": "Complete the first 3 GROWTH modules (we will check your understanding in an interview)",
       "Additional key points": ""
     },
@@ -1304,7 +1304,7 @@
       "Duration": "2 semesters",
       "Learning Outcome & Expectations from the students": "- Developing an understanding of telescope operations and scheduling for searching for electromagnetic counterparts to gravitational wave sources\n- Participation in the international GROWTH collaboration\n- Opportunities to participate in GROWTH-India Telescope observations and operations. Good students will get the opportunity to co-author refereed publications.\n- Training in good coding practices and software development from some of the best people around the world\n\nOther expectations:\nThis is a two-semester project, with reading work this July. Working on this project in December is to be decided by mutual agreement, and availability of other opportunities to the student. The student will be exposed to multiple analyses and will have opportunities to become a co-author on refereed publications.",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
-      "Assignment": "An Enhanced Method for Scheduling Observations of Large Sky Error Regions for Finding Optical Counterparts to Transients https://arxiv.org/abs/1603.01689",
+      "Assignment": "An Enhanced Method for Scheduling Observations of Large Sky Error Regions for Finding Optical Counterparts to Transients    https://arxiv.org/abs/1603.01689",
       "Instructions for assignment": "Candidates should read the paper above and summarize it in their own words.",
       "Additional key points": ""
     },

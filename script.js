@@ -37,7 +37,7 @@ fetch('projects.json')
                             class="btn btn-primary"
                             data-bs-toggle="modal"
                             data-bs-target="#modal-${index}"
-                            style="background-color: #323b75; border-color: #323b75">
+                            style="background-color: #004AAD; border-color: #004AAD">
                             Details
                         </button>
                     </div>
@@ -97,11 +97,15 @@ fetch('projects.json')
                                 </tr>
                                 <tr>
                                     <th>Assignment</th>
-                                    <td>${project["Assignment"] ? `<a href="${project["Assignment"]}">${project["Assignment"]}</a>` : '-'}</td>
+                                    <td>${project["Assignment"]}</td>
                                 </tr>
                                 <tr>
                                     <th>Instructions for assignment</th>
                                     <td>${project["Instructions for assignment"]}</td>
+                                </tr>
+                                  <tr>
+                                    <th>Additional key points</th>
+                                    <td>${project["Additional key points"]}</td>
                                 </tr>
                             </table>
                         </div>
