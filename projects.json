@@ -472,8 +472,7 @@
       "Learning Outcome & Expectations from the students": "See https://docs.google.com/document/d/1qxAmswuLpTYrhjvX1U7amTfSRmWlA6w0QFgRYeT54Ns/",
       "Weekly Time Commitment": "See https://docs.google.com/document/d/1qxAmswuLpTYrhjvX1U7amTfSRmWlA6w0QFgRYeT54Ns/",
       "Assignment": "See https://docs.google.com/document/d/1qxAmswuLpTYrhjvX1U7amTfSRmWlA6w0QFgRYeT54Ns/",
-      "Instructions for assignment": "See https://docs.google.com/document/d/1qxAmswuLpTYrhjvX1U7amTfSRmWlA6w0QFgRYeT54Ns/",
-      "Additional key points": "What should be done to encourage more quality participation in research from undergraduates at our institute?\n\n1.  Aim for quality over quantity.  Most students I see try to dabble in 10 different things. And they try to find that one thing that gets them maximum value for minimum effort.  Then they ditch the 9 other things. This is not the way of research.\n2. Choose a reasonable time line -- basically think that IITB faculty are competing with the Google and European universities. Start during placement season! is IITB the last resort?"
+      "Instructions for assignment": "See https://docs.google.com/document/d/1qxAmswuLpTYrhjvX1U7amTfSRmWlA6w0QFgRYeT54Ns/"
     },
     {
       "Domain": "Computer Science",
@@ -592,23 +591,6 @@
       "Weekly Time Commitment": "20hrs",
       "Assignment": "https://www.youtube.com/watch?v=45HAfu719iw",
       "Instructions for assignment": "Understanding writup (1 page)",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Hardware Security in 3D NAND flash memory technology",
-      "Project UID": "EE04",
-      "Name of Professor": "Prof Sandip Mondal",
-      "Project Description": "The 3-D NAND flash device has become an essential fragment of the cyber-physical systems to manage the enormous data bang in the era of the Internet of Things (IoT). Moreover, hardware security primitives such as physical unclonable function (PUF) have become crucial in the functional circuits of these cyber-physical systems for defense in contradiction of security susceptibilities and adversary attacks.",
-      "Number of Students Required": 2,
-      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "8.6 and above",
-      "Prerequisites": "Python",
-      "Duration": "1 year",
-      "Learning Outcome & Expectations from the students": "Data processing using AI",
-      "Weekly Time Commitment": "20 hrs",
-      "Assignment": "https://www.youtube.com/watch?v=45HAfu719iw",
-      "Instructions for assignment": "Detail understanding (1 page)",
       "Additional key points": ""
     },
     {
@@ -733,7 +715,7 @@
     {
       "Domain": "Electrical",
       "Project Title": "Measurement of the doping concentration in silicon solar cells",
-      "Project UID": "EE12",
+      "Project UID": "EE04",
       "Name of Professor": "Anil Kottantharayil",
       "Project Description": "Commercial silicon  solar cells are made on silicon wafers . The wafer suppliers typically specify a nominal excess carrier lifetime and resistivity. In the measurement of silicon solar cells, it is necessary to input the dopant density in the finished solar cell. This project aims to obtain the doping density of a finished solar cell from dark I-V and lighted I-V measurements. This is possible by inferring the capacitance by sweeping the voltage at diiferent rates and measuring the current or by measuring the IV with a flash lamp with different on times .",
       "Number of Students Required": 1,
